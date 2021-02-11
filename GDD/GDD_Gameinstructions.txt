@@ -1,0 +1,9 @@
+W:			Move forward
+S:			Move back
+A:			Move left
+D:			Move right
+B:			Badge system
+Tab:			Quest system
+Mouse (Left):		Fire
+Mouse moves left or right:	Rotate
+B：			Badge System

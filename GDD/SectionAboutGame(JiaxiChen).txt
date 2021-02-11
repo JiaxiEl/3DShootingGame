@@ -1,0 +1,5 @@
+The genre of our game is first-person shooting game.
+
+
+It is an endless survival game. The game happened in a hospital. The Zombie wants to let all the people be the same species. 
+The Player is the one of the survivors. Hence, the player should survive for as long as you can and get the points. Every emeny is worth 100 points
